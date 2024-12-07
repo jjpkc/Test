@@ -1,0 +1,38 @@
+body{
+  padding: 25px;
+  background-color: beige;
+}
+.title {
+	color: brown;
+	font-family:Parkinsans;
+}
+.big{
+  padding: 12px 8px 12px 40px;
+  font-family:Parkinsans;
+  width:1275px;
+  background-color: #Ab784E;
+  color: white;
+
+}
+
+
+.container{
+  font-family:Parkinsans;
+  margin-right: auto;
+  margin-left: auto;
+  gap:160px;
+  display: flex;
+}
+
+.right {
+  padding-top: 100px ;
+}
+.sloth {
+  font-size: 100px;
+}
+
+#sloth{
+  font-size: 200px;
+
+}
+
